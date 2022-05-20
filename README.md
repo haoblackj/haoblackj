@@ -1,3 +1,5 @@
+たまに Zenn で小説周りの記事を書いてます。読んで(土下座)
+
 [![](https://github-readme-blog-score-shota1995m.vercel.app/api/get_zenn_score?zennId=haoblackj)](https://zenn.dev/haoblackj)
 
 [![](https://raw.githubusercontent.com/haoblackj/haoblackj/main/profile-summary-card-output/github/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
