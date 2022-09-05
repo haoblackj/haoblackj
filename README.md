@@ -6,6 +6,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [GitHub Codespaces で小説を書く時代](https://zenn.dev/haoblackj/articles/novel-codespaces)
+- [AutoHotkeyに小説周りの雑用を外注してみた](https://zenn.dev/haoblackj/articles/93238d01d739bc)
+- [Pull Request駆動で小説を開発する](https://zenn.dev/haoblackj/articles/manuscript_compare_by_pr)
+- [GitHub上に構築した小説執筆環境について](https://zenn.dev/haoblackj/articles/8cbadb26ca16e4)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
