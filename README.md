@@ -1,6 +1,8 @@
 たまに Zenn で小説周りの記事を書いてます。読んで(土下座)
 
-[![](https://github-readme-blog-score-shota1995m.vercel.app/api/get_zenn_score?zennId=haoblackj)](https://zenn.dev/haoblackj)
+<p><img align="right" width="49%" src=https://github-readme-blog-score-shota1995m.vercel.app/api/get_zenn_score?zennId=haoblackj"/></p>
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 [![](https://raw.githubusercontent.com/haoblackj/haoblackj/main/profile-summary-card-output/github/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/haoblackj/haoblackj/main/profile-summary-card-output/github/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/haoblackj/haoblackj/main/profile-summary-card-output/github/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
