@@ -5,6 +5,7 @@
 - 📝 I regularly write articles on [https://zenn.dev/haoblackj](https://zenn.dev/haoblackj)
 
 ### Blogs posts
+<p><img align="right" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=haoblackj&show_icons=true&locale=en&layout=compact"/></p>
 <!-- BLOG-POST-LIST:START -->
 - [GitHub Codespaces で小説を書く時代](https://zenn.dev/haoblackj/articles/novel-codespaces)
 - [AutoHotkeyに小説周りの雑用を外注してみた](https://zenn.dev/haoblackj/articles/93238d01d739bc)
