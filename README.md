@@ -5,6 +5,9 @@
 # ![zenn](./icon/zenn.png) Latest Blog Posts
 <p><img align="right" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=haoblackj&show_icons=true&locale=en&layout=compact" alt="haoblackj"/></p>
 
+[![Likes](https://badgen.org/img/zenn/haoblackj/likes?style=plastic&label=Likes+%40haoblackj)](https://zenn.dev/haoblackj)
+[![Articles](https://badgen.org/img/zenn/haoblackj/articles?style=plastic&label=Articles+%40haoblackj)](https://zenn.dev/haoblackj)
+
 <!-- BLOG-POST-LIST:START -->
 - [GitHub Codespaces で小説を書く時代](https://zenn.dev/haoblackj/articles/novel-codespaces)
 - [AutoHotkeyに小説周りの雑用を外注してみた](https://zenn.dev/haoblackj/articles/93238d01d739bc)
