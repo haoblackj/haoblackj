@@ -9,6 +9,7 @@
 [![Articles](https://badgen.org/img/zenn/haoblackj/articles?style=plastic&label=Articles+%40haoblackj)](https://zenn.dev/haoblackj)
 
 <!-- BLOG-POST-LIST:START -->
+- [グループポリシーの設定内容をわかりやすく出力する方法](https://zenn.dev/haoblackj/articles/easy2read-group-policy-report)
 - [GitHub Codespaces で小説を書く時代](https://zenn.dev/haoblackj/articles/novel-codespaces)
 - [AutoHotkeyに小説周りの雑用を外注してみた](https://zenn.dev/haoblackj/articles/93238d01d739bc)
 - [Pull Request駆動で小説を開発する](https://zenn.dev/haoblackj/articles/manuscript_compare_by_pr)
