@@ -9,6 +9,7 @@
 [![Articles](https://badgen.org/img/zenn/haoblackj/articles?style=plastic&label=Articles+%40haoblackj)](https://zenn.dev/haoblackj)
 
 <!-- BLOG-POST-LIST:START -->
+- [komorebiの設定例](https://zenn.dev/haoblackj/articles/komorebi-example)
 - [小説の執筆環境で断舎離してみた](https://zenn.dev/haoblackj/articles/integrated-writing-environment)
 - [グループポリシーの設定内容をわかりやすく出力する方法](https://zenn.dev/haoblackj/articles/easy2read-group-policy-report)
 - [GitHub Codespaces で小説を書く時代](https://zenn.dev/haoblackj/articles/novel-codespaces)
