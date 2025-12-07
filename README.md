@@ -9,13 +9,13 @@
 [![Articles](https://badgen.org/img/zenn/haoblackj/articles?style=plastic&label=Articles+%40haoblackj)](https://zenn.dev/haoblackj)
 
 <!-- BLOG-POST-LIST:START -->
+- [自宅サーバ2025](https://zenn.dev/haoblackj/articles/home-server-2025)
 - [小説執筆リポジトリの今](https://zenn.dev/haoblackj/articles/novel-template-202506)
 - [komorebiの設定例](https://zenn.dev/haoblackj/articles/komorebi-example)
 - [小説の執筆環境で断舎離してみた](https://zenn.dev/haoblackj/articles/integrated-writing-environment)
 - [グループポリシーの設定内容をわかりやすく出力する方法](https://zenn.dev/haoblackj/articles/easy2read-group-policy-report)
 - [GitHub Codespaces で小説を書く時代](https://zenn.dev/haoblackj/articles/novel-codespaces)
 - [AutoHotkeyに小説周りの雑用を外注してみた](https://zenn.dev/haoblackj/articles/93238d01d739bc)
-- [Pull Request駆動で小説を開発する](https://zenn.dev/haoblackj/articles/manuscript_compare_by_pr)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
